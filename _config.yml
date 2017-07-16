@@ -1,0 +1,79 @@
+typography_spectrum: 0.49797429565561585
+color:
+  brandStrength: 0.29714618877028254
+  lightness: 0.34988826929075223
+  saturation: 0.7044254708855348
+  rhythmicContrast: 0.8979627615298228
+  brandColors:
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
+layout_spectrum: 0.3275695861711877
+name: dr arno caillere
+title: 'Expert en Implantologie, Greffes et Esthétique dentaire'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/11d9bd39-8f85-4083-854d-1d1d6db5665f.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/11d9bd39-8f85-4083-854d-1d1d6db5665f.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86d3e3a0-1a77-4c5b-98be-2a6d3c170f5c.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/86d3e3a0-1a77-4c5b-98be-2a6d3c170f5c.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Pour tout savoir
+purpose:
+  - type: contact
+    url: 'mailto:arnocaillere@idem.pro'
+    label: Contact me
+  - type: contact
+    url: 'tel:966672757'
+    label: Appelez le  966672757
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/af30fdf3-c4ad-436a-81ef-9a642a3f65a3.png
+github: true
+author:
+  name: Philippe
+  email: philippepinatel@idem.pro
+  url: 'http://www.idem.pro'
